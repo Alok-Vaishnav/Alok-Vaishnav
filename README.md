@@ -21,5 +21,5 @@
     <img src="https://skillicons.dev/icons?i=git,docker,react,redux,nextjs,nodejs,express,css,bootstrap,mongodb,redis,javascript,html,github,graphql" />
   </a>
 </p>
-<p><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-Vaishnav&hide=HTML&langs_count=8&layout=compact&theme=dracula&border_radius=10&border=1px solid #7171713f&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Alok Vaishnav" /></p>
+<p><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-Vaishnav&hide=HTML&langs_count=8&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Alok Vaishnav" /></p>
 
