@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redis and GraphQl**
 
-- 💬 Ask me about **react ,java-script, Next.js**
+- 💬 Ask me about **react , java-script , Next.js**
 
 - 📫 How to reach me **alok.vsnv@gmail.com**
 
