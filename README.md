@@ -2,9 +2,8 @@
 <h3 align="center">
    Hi 👋 I am Alok Vaishnav.
 </h3>
-<div align="center"> 
 
-<h4>👋 Howdy! I'm Tushar, your friendly neighborhood web developer with expertise in Next.js and the MERN stack. Currently, I'm orchestrating the magic of these technologies to craft stunning web experiences. Swing by my GitHub and you'll find a README that's more than just instructions – it's a journey into efficient code, seamless UI, and a touch of innovation. Join me on this coding escapade!</h4>
+<h3>👋 Howdy! I'm Tushar, your friendly neighborhood web developer with expertise in Next.js and the MERN stack. Currently, I'm orchestrating the magic of these technologies to craft stunning web experiences. Swing by my GitHub and you'll find a README that's more than just instructions – it's a journey into efficient code, seamless UI, and a touch of innovation. Join me on this coding escapade!</h3>
                        
  🔭 I’m currently working on improving Web development skills.
  
@@ -18,7 +17,6 @@
 
  💬 Ask me about Programming, and any tech-related stuff.
  
-😄 Pronouns: Her/He.
 
 </div>
 
