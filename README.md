@@ -21,11 +21,11 @@
 </div>
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools⚒️ </h2>
+<h2 > Languages-Frameworks-Tools </h2>
 
 <br/>
 
-<div align="center">
+<div >
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,redux,graphql,git,github,html,css,javascript,php,docker" /><br>
 </div>
 
