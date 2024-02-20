@@ -22,5 +22,5 @@
   </a>
 </p>
 <!-- <p><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-Vaishnav&hide=HTML&langs_count=8&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Alok Vaishnav" /></p> -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alok-Vaishnav&show_icons=true&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5locale=en&layout=compact" alt="Alok-Vaishnav" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alok-Vaishnav&show_icons=true&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5&locale=en&layout=compact" alt="Alok-Vaishnav" /></p>
 
